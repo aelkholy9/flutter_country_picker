@@ -3197,5 +3197,18 @@ final List<Map<String, dynamic>> countryCodes = [
     "full_example_with_plus_sign": "+263711234567",
     "display_name_no_e164_cc": "Zimbabwe (ZW)",
     "e164_key": "263-ZW-0"
+  },
+  {
+    "e164_cc": "263",
+    "iso2_cc": "EU",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 1,
+    "name": "Europe Union",
+    "example": "711234567",
+    "display_name": "Europe Union (EU)",
+    "full_example_with_plus_sign": "+263711234567",
+    "display_name_no_e164_cc": "Europe Union (EU)",
+    "e164_key": "263-EU-0"
   }
 ];
